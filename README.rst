@@ -2,7 +2,7 @@ Pattern
 =======
 
 .. image:: https://travis-ci.org/pattern3/pattern.svg?branch=master
-    :target: https://travis-ci.org/pattern3/pattern
+   :target: https://travis-ci.org/pattern3/pattern
 
 Pattern is a web mining module for Python. It has tools for:
 
@@ -18,10 +18,12 @@ It is well documented and bundled with 50+ examples and 350+ unit tests.
 The source code is licensed under BSD and available from
 http://www.clips.ua.ac.be/pages/pattern.
 
-.. figure:: http://www.clips.ua.ac.be/media/pattern_schema.gif
+.. image:: http://www.clips.ua.ac.be/media/pattern_schema.gif
    :alt: Pattern example workflow
 
-   Pattern example workflow
+Pattern example workflow
+
+
 Version
 -------
 
@@ -166,7 +168,7 @@ Acknowledgements
 -  Ken Williams
 -  Peteris Erins
 -  Rajesh Nair
--  F. De Smedt
+-  F De Smedt
 -  Radim Řehůřek
 -  Tom Loredo
 -  John DeBovis
